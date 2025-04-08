@@ -3,7 +3,7 @@ public class test ()
   int test;
   public test(int test)
   {
-    System.out.print("FRICK");
+    System.out.print("DEEZ");
     this.test = test;
   }
 }
