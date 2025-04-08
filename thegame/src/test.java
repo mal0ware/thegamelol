@@ -1,3 +1,4 @@
+package thegame.src;
 public class test ()
 {
   int test;
